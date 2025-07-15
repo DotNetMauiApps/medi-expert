@@ -114,11 +114,11 @@ It is tailored to the daily needs of general practitioners and small medical pra
 * MVVM Design Pattern
 
 ## 📝 License
-<span style="color: red;">
+
 This software is intended **only for private, non-commercial learning purposes**.
 **Redistribution, copying, or commercial use is strictly prohibited.**
 → See [LICENSE.txt](./LICENSE.txt)
-</span>
+
 
 ### 📬 Contact
 
