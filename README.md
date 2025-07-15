@@ -123,5 +123,5 @@ This software is intended **only for private, non-commercial learning purposes**
 ### 📬 Contact
 
 For questions or feedback:
-📧 \[[azlanainto8bitl@gmail.com](mailto:azlanainto8bit@gmail.com)]
+📧 \[[azlanainto8bit@gmail.com](mailto:azlanainto8bit@gmail.com)]
 
