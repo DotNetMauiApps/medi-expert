@@ -8,7 +8,7 @@ Deutsch | German | English below ⬇️
 PraxisManager ist eine moderne Anwendung auf Basis von .NET MAUI zur effizienten Verwaltung personenbezogener Patientendaten. 
 Die Software wurde speziell für die Anforderungen von Hausärzten und kleineren medizinischen Einrichtungen entwickelt.
 
-##✅ Funktionen
+## ✅ Funktionen
 
 ### Patientenverwaltung
   Erfassung, Bearbeitung und Anzeige von Stammdaten (Name, Geburtsdatum, Adresse, Versicherung).
@@ -70,7 +70,7 @@ PatientCare is a modern .NET MAUI application designed for efficient management 
 It is tailored to the daily needs of general practitioners and small medical practices.
 
 
- ##✅ Features
+ ## ✅ Features
 
 * **Patient Data Management**
   Create, edit, and view patient records (name, birthdate, address, insurance).
