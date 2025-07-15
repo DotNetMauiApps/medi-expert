@@ -3,7 +3,8 @@
 
 Deutsch | German | English below ⬇️
 
-## 🇩🇪 PraxisManager – Patientenverwaltung für Hausärzte
+## German  
+## PraxisManager – Patientenverwaltung für Hausärzte
 
 PraxisManager ist eine moderne Anwendung auf Basis von .NET MAUI zur effizienten Verwaltung personenbezogener Patientendaten. 
 Die Software wurde speziell für die Anforderungen von Hausärzten und kleineren medizinischen Einrichtungen entwickelt.
@@ -64,7 +65,8 @@ Für Fragen oder Feedback:
 
 ---
 
-## 🇬🇧 PatientCare – Patient Management for General Practitioners
+## English
+## PatientCare – Patient Management for General Practitioners
 
 PatientCare is a modern .NET MAUI application designed for efficient management of personal medical data.
 It is tailored to the daily needs of general practitioners and small medical practices.
