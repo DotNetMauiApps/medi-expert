@@ -74,22 +74,22 @@ It is tailored to the daily needs of general practitioners and small medical pra
 
  ## ✅ Features
 
-* **Patient Data Management**
+  ** Patient Data Management**
   Create, edit, and view patient records (name, birthdate, address, insurance).
 
-* **Medical Documentation**
+  ** Medical Documentation**
   Store diagnoses, anamnesis, treatments, and medication plans.
 
-* **Appointment Overview (optional)**
+  ** Appointment Overview (optional)**
   Simple calendar overview of scheduled appointments and visits.
 
-* **Search & Filter**
+  **Search & Filter**
   Quickly find patients by name, ID, or diagnosis.
 
-* **Local Data Storage (SQLite)**
+  **Local Data Storage (SQLite)**
   No cloud required – full control over sensitive data.
 
-* **Modern MVVM Architecture**
+  **Modern MVVM Architecture**
   Clean separation of data, logic, and UI – maintainable and extendable.
 
 
@@ -105,7 +105,7 @@ It is tailored to the daily needs of general practitioners and small medical pra
   Prevent unauthorized access to patient records.
 
 
- ##⚙️ Technology Stack
+ ## ⚙️ Technology Stack
 
 * .NET MAUI (.NET 8)
 * C#
