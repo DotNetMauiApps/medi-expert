@@ -1,10 +1,7 @@
-# medi-expert
-
 
 # 🩺 PraxisManager / PatientCare App
 
 Deutsch | German | English below ⬇️
-
 
 ## 🇩🇪 PraxisManager – Patientenverwaltung für Hausärzte
 
@@ -13,34 +10,34 @@ Die Software wurde speziell für die Anforderungen von Hausärzten und kleineren
 
 ##✅ Funktionen
 
-Patientenverwaltung
+### Patientenverwaltung
   Erfassung, Bearbeitung und Anzeige von Stammdaten (Name, Geburtsdatum, Adresse, Versicherung).
   
-Medizinische Dokumentation
+### Medizinische Dokumentation
   Speicherung von Diagnosen, Anamnesen, Behandlungen und Medikationsplänen.
 
-Terminübersicht (optional)
+### Terminübersicht (optional)
   Einfache Übersicht über geplante Termine und Patientenbesuche.
 
-Suche & Filter
+### Suche & Filter
   Schnelle Filterung und Suche nach Patientennamen, ID oder Diagnose.
 
-Lokale Datenspeicherung (SQLite)
+### Lokale Datenspeicherung (SQLite)
   Kein Cloud-Zwang – volle Kontrolle über Patientendaten.
 
-Moderne MVVM-Architektur
+### Moderne MVVM-Architektur
   Saubere Trennung von Daten, Logik und Oberfläche – wartbar und erweiterbar.
 
 
 ### 🛡️ Datenschutz & Sicherheit
 
-Datenschutzkonform (DSGVO)
+#### Datenschutzkonform (DSGVO)
   Keine Weitergabe von Patientendaten – ausschließlich lokale Verarbeitung.
 
-Keine Cloud-Speicherung
+#### Keine Cloud-Speicherung
   Volle Datenhoheit in der Praxis.
 
-Optionale Authentifizierung
+#### Optionale Authentifizierung
   Schutz vor unbefugtem Zugriff.
 
 
@@ -94,7 +91,7 @@ It is tailored to the daily needs of general practitioners and small medical pra
   Clean separation of data, logic, and UI – maintainable and extendable.
 
 
-🛡️ Privacy & Security
+## 🛡️ Privacy & Security
 
 * **GDPR compliant**
   No transmission of patient data – fully local storage and processing.
@@ -114,13 +111,12 @@ It is tailored to the daily needs of general practitioners and small medical pra
 * Visual Studio 2022
 * MVVM Design Pattern
 
-### 📝 License
+## 📝 License
 
 This software is intended **only for private, non-commercial learning purposes**.
 **Redistribution, copying, or commercial use is strictly prohibited.**
 → See [LICENSE.txt](./LICENSE.txt)
 
----
 
 ### 📬 Contact
 
