@@ -83,25 +83,25 @@ It is tailored to the daily needs of general practitioners and small medical pra
   ** Appointment Overview (optional)**
   Simple calendar overview of scheduled appointments and visits.
 
-  **Search & Filter**
+  ** Search & Filter**
   Quickly find patients by name, ID, or diagnosis.
 
-  **Local Data Storage (SQLite)**
+  ** Local Data Storage (SQLite)**
   No cloud required – full control over sensitive data.
 
-  **Modern MVVM Architecture**
+  ** Modern MVVM Architecture**
   Clean separation of data, logic, and UI – maintainable and extendable.
 
 
 ## 🛡️ Privacy & Security
 
-* **GDPR compliant**
+ **GDPR compliant**
   No transmission of patient data – fully local storage and processing.
 
-* **No Cloud Dependency**
+ **No Cloud Dependency**
   All data remains within the local environment.
 
-* **Optional Authentication**
+ **Optional Authentication**
   Prevent unauthorized access to patient records.
 
 
